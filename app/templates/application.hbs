@@ -1,5 +1,8 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
-
+<h1>Welcome to Uncaught Error: unreachable</h1>
+<p>
+  Below you supposed to see 3 buttons but instead you can see only "Uncaught Error: unreachable" in console
+</p>
+{{#each buttons as |button|}}
+  <button>{{button}}</button>
+{{/each}}
 {{outlet}}
