@@ -1,7 +1,7 @@
 # ember-rendering-bug
 
-This repo demonstrates a bug in ember 3.2 and higher - buttons rendered in `each` loop
-break application. 
+This repo demonstrates a bug in ember 3.3 - buttons rendered in `each` loop
+break application. Following template works fine in 3.2.2.
 
 ```handlebars
 {{#each buttons as |button|}}
