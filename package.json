@@ -1,8 +1,8 @@
 {
-  "name": "ember-glimmer-bug",
+  "name": "ember-rendering-bug",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for ember-glimmer-bug goes here",
+  "description": "Small description for ember-rendering-bug goes here",
   "license": "MIT",
   "author": "",
   "directories": {

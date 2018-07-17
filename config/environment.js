@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-glimmer-bug',
+    modulePrefix: 'ember-rendering-bug',
     environment,
     rootURL: '/',
     locationType: 'auto',
